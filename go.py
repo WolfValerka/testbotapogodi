@@ -1,6 +1,6 @@
 import pyowm
 import telebot
-
+import os
 
 owm = pyowm.OWM('6d00d1d4e704068d70191bad2673e0cc', language = "ru")
 bot = telebot.TeleBot("969905697:AAG_U507SPvlCk9XjgXDeUEBr7d6O1nr7GM")
